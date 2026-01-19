@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    color: black;
+    background-color: rgb(232, 237, 237);
+    padding: 20px;
+    
+
+}
+
+.inner_container{
+background-color: rgb(225, 247, 247);
+padding: 25px;
+}
+
+.form{
+    height: 600px;
+    width: 300px;
+    margin:auto;
+    
+    margin-top: 200px;
+    
+}
+
+input{
+    padding: 5px;
+    height: 10px; 
+    margin: 5px;
+   
+}
+
+h1{
+    margin: 10px;
+}
+.btn{
+    display: block;
+    margin: 20px auto;   
+    padding: 10px 25px;
+}
+.btn:hover{
+    background-color: rgb(198, 198, 211);
+    color: black;
+    
+}
+.submit{
+    display: none;
+    text-align: center;
+    color: green;
+    font-size: 16px;
+}
